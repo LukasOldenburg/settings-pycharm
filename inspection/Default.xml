@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="object.plot_results" />
+        <option value="bool.bool" />
       </list>
     </option>
   </inspection_tool>
